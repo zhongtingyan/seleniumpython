@@ -1,0 +1,132 @@
+2019-06-12 13:58:04,341 ERROR 找不到元素:('18923706040',)
+2019-06-12 13:58:04,371 ERROR 输入失败,loc=('18923706040',);value=id
+2019-06-12 13:58:04,383 ERROR 找不到元素:('123456',)
+2019-06-12 13:58:04,385 ERROR 输入失败,loc=('123456',);value=name
+2019-06-12 14:10:05,504 ERROR 找不到元素:('phoneNum',)
+2019-06-12 14:10:05,507 ERROR 输入失败,loc=('phoneNum',);value=18923706040
+2019-06-12 14:10:05,520 ERROR 找不到元素:('password',)
+2019-06-12 14:10:05,523 ERROR 输入失败,loc=('password',);value=123456
+2019-06-12 14:10:05,713 INFO The element ' 登 录 ' was clicked.
+2019-06-12 14:12:38,406 ERROR 找不到元素:('phoneNum',)
+2019-06-12 14:12:38,411 ERROR 输入失败,loc=('phoneNum',);value=18923706040
+2019-06-12 14:12:38,431 ERROR 找不到元素:('password',)
+2019-06-12 14:12:38,433 ERROR 输入失败,loc=('password',);value=123456
+2019-06-12 14:12:38,564 INFO The element ' 登 录 ' was clicked.
+2019-06-12 14:13:16,844 ERROR 找不到元素:('phoneNum',)
+2019-06-12 14:13:16,845 ERROR 输入失败,loc=('phoneNum',);value=18923706040
+2019-06-12 14:13:16,849 ERROR 找不到元素:('password',)
+2019-06-12 14:13:16,851 ERROR 输入失败,loc=('password',);value=123456
+2019-06-12 14:13:16,947 INFO The element ' 登 录 ' was clicked.
+2019-06-12 14:14:44,927 ERROR 找不到元素:('phoneNum',)
+2019-06-12 14:14:44,928 ERROR 输入失败,loc=('phoneNum',);value=18923706040
+2019-06-12 14:14:44,936 ERROR 找不到元素:('password',)
+2019-06-12 14:14:44,938 ERROR 输入失败,loc=('password',);value=123456
+2019-06-12 14:14:45,109 INFO The element ' 登 录 ' was clicked.
+2019-06-12 14:16:12,940 INFO The element ' 登 录 ' was clicked.
+2019-06-12 14:17:38,621 INFO The element ' 登 录 ' was clicked.
+2019-06-12 14:23:48,835 INFO The element ' 登 录 ' was clicked.
+2019-06-12 14:24:04,216 ERROR 找不到元素:('xpath', "//span[contains(text(),'管理员管理']")
+2019-06-12 14:25:11,001 INFO The element ' 登 录 ' was clicked.
+2019-06-12 14:25:26,315 ERROR 找不到元素:('xpath', "//span[contains(text(),'管理员管理']")
+2019-06-12 14:28:57,184 INFO The element ' 登 录 ' was clicked.
+2019-06-12 14:29:02,312 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 14:29:02,881 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 15:21:34,968 INFO wait for 3 seconds.
+2019-06-12 15:21:35,399 INFO The element ' 登 录 ' was clicked.
+2019-06-12 15:23:21,314 INFO wait for 3 seconds.
+2019-06-12 15:23:21,753 INFO The element ' 登 录 ' was clicked.
+2019-06-12 15:23:26,887 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 15:23:27,470 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 15:52:11,238 INFO wait for 3 seconds.
+2019-06-12 15:52:11,673 INFO The element ' 登 录 ' was clicked.
+2019-06-12 15:52:16,820 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 15:52:17,503 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 15:52:20,510 ERROR 找不到元素:(('xpath', '//iframe[contains(@src,"/admin/adminUser/list")]'),)
+2019-06-12 16:00:18,880 INFO wait for 3 seconds.
+2019-06-12 16:00:19,332 INFO The element ' 登 录 ' was clicked.
+2019-06-12 16:00:24,430 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 16:00:25,041 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 16:00:28,048 ERROR 找不到元素:(('xpath', '//*[@id="if_16")]'),)
+2019-06-12 16:10:03,752 INFO wait for 3 seconds.
+2019-06-12 16:10:04,528 INFO The element ' 登 录 ' was clicked.
+2019-06-12 16:10:09,704 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 16:10:10,522 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 16:10:55,328 INFO wait for 3 seconds.
+2019-06-12 16:10:56,023 INFO The element ' 登 录 ' was clicked.
+2019-06-12 16:11:01,173 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 16:11:01,932 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 16:11:18,398 ERROR 找不到元素:('xpath', "//span[contains(text(),'查询']")
+2019-06-12 16:18:42,279 INFO wait for 3 seconds.
+2019-06-12 16:18:42,743 INFO The element ' 登 录 ' was clicked.
+2019-06-12 16:18:47,878 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 16:18:48,371 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 16:33:38,961 INFO wait for 3 seconds.
+2019-06-12 16:33:39,407 INFO The element ' 登 录 ' was clicked.
+2019-06-12 16:33:44,542 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 16:33:45,151 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 16:35:07,173 INFO wait for 3 seconds.
+2019-06-12 16:35:07,642 INFO The element ' 登 录 ' was clicked.
+2019-06-12 16:35:12,773 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 16:35:13,303 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 16:35:19,317 INFO wait for 3 seconds.
+2019-06-12 16:41:13,506 INFO wait for 3 seconds.
+2019-06-12 16:41:25,733 INFO wait for 3 seconds.
+2019-06-12 16:52:49,801 INFO wait for 3 seconds.
+2019-06-12 16:52:50,340 INFO The element ' 登 录 ' was clicked.
+2019-06-12 16:52:55,474 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 16:52:56,032 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 16:53:02,046 INFO wait for 3 seconds.
+2019-06-12 17:09:41,105 INFO wait for 3 seconds.
+2019-06-12 17:09:41,625 INFO The element ' 登 录 ' was clicked.
+2019-06-12 17:09:46,734 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 17:09:47,355 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 17:09:53,370 INFO wait for 3 seconds.
+2019-06-12 17:09:53,569 INFO 等待指定元素出现
+2019-06-12 17:09:54,038 INFO 扫描结束
+2019-06-12 17:28:19,085 INFO wait for 3 seconds.
+2019-06-12 17:28:19,612 INFO The element ' 登 录 ' was clicked.
+2019-06-12 17:28:24,720 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 17:28:25,292 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 17:28:31,309 INFO wait for 3 seconds.
+2019-06-12 17:28:31,481 INFO 等待指定元素出现
+2019-06-12 17:28:32,095 INFO 扫描结束
+2019-06-12 17:29:53,991 INFO wait for 3 seconds.
+2019-06-12 17:29:54,520 INFO The element ' 登 录 ' was clicked.
+2019-06-12 17:29:59,655 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 17:30:00,177 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 17:30:06,206 INFO wait for 3 seconds.
+2019-06-12 17:30:06,447 INFO 等待指定元素出现
+2019-06-12 17:30:06,880 INFO 扫描结束
+2019-06-12 17:31:47,151 INFO wait for 3 seconds.
+2019-06-12 17:31:47,694 INFO The element ' 登 录 ' was clicked.
+2019-06-12 17:31:52,783 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 17:31:53,307 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 17:31:59,324 INFO wait for 3 seconds.
+2019-06-12 17:31:59,483 INFO 等待指定元素出现
+2019-06-12 17:31:59,907 INFO 扫描结束
+2019-06-12 17:32:04,911 INFO 等待指定元素出现
+2019-06-12 17:32:05,006 INFO 扫描结束
+2019-06-12 17:32:05,009 INFO 等待指定元素出现
+2019-06-12 17:32:05,195 INFO 扫描结束
+2019-06-12 17:45:20,507 INFO wait for 3 seconds.
+2019-06-12 17:45:20,962 INFO The element ' 登 录 ' was clicked.
+2019-06-12 17:45:26,055 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 17:45:26,619 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 17:45:32,998 INFO wait for 3 seconds.
+2019-06-12 17:45:33,160 INFO 等待指定元素出现
+2019-06-12 17:45:33,590 INFO 扫描结束
+2019-06-12 17:45:38,596 INFO 等待指定元素出现
+2019-06-12 17:45:38,688 INFO 扫描结束
+2019-06-12 17:45:38,690 INFO 等待指定元素出现
+2019-06-12 17:45:38,882 INFO 扫描结束
+2019-06-12 17:46:35,774 INFO wait for 3 seconds.
+2019-06-12 17:46:36,207 INFO The element ' 登 录 ' was clicked.
+2019-06-12 17:46:41,350 INFO The element ' 管理员管理 ' was clicked.
+2019-06-12 17:46:41,880 INFO The element ' 账户管理 ' was clicked.
+2019-06-12 17:46:48,276 INFO wait for 3 seconds.
+2019-06-12 17:46:48,475 INFO 等待指定元素出现
+2019-06-12 17:46:48,875 INFO 扫描结束
+2019-06-12 17:46:53,885 INFO 等待指定元素出现
+2019-06-12 17:46:53,999 INFO 扫描结束
+2019-06-12 17:46:54,001 INFO 等待指定元素出现
+2019-06-12 17:46:54,161 INFO 扫描结束
