@@ -12,7 +12,7 @@ class Test(BaseTestCase):
         # loginPage实例化
         self.loginPage1 = LoginPage(self.driver)
         # 登录
-        self.loginPage1.test_user_login("18923706040", "123456")
+        self.loginPage1.test_user_login("189*****40", "******")
 
         # 总后台首页实例化
         self.homePage1 = HomePage(self.loginPage1.driver)
